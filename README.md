@@ -1,2 +1,2 @@
 # SIR_models_simulation
-Deterministic and stochastic epidemiológica models simulation
+Deterministic and stochastic epidemiological models simulation
